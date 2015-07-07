@@ -1,3 +1,9 @@
+##免费在线电子书  
+* [Atlas: The new learning environment form O'Reilly](http://chimera.labs.oreilly.com/)  
+* [QML Book](http://qmlbook.github.io/)  
+* [Linux Warehouse](http://bootloader.wikidot.com/start)  
+* [Free Computer Books](http://freecomputerbooks.com/)  
+
 免费的编程中文书籍索引
 ============================
 
