@@ -4,6 +4,12 @@
 * [Linux Warehouse](http://bootloader.wikidot.com/start)  
 * [Free Computer Books](http://freecomputerbooks.com/)  
 
+##编程练习网站  
+* [TopCoder](https://www.topcoder.com/) - 这是美国著名的编程竞赛网站，能够极大地增长算法方面的知识。
+* [Codeforces](http://codeforces.com/) - 另一种编程竞赛网站，这里举行竞赛的频率要略高于TopCoder。
+* [Project Euler](https://projecteuler.net/) - 该网站上有许多涉及的编程问题。
+* [CodeAbbey](http://www.codeabbey.com/) - 该网站上有许多初学者经常会遇到的问题，其难度低于上述所有网站。
+
 免费的编程中文书籍索引
 ============================
 
