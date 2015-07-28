@@ -35,6 +35,7 @@
 * [语言无关类](#语言无关类)
   * [操作系统](#操作系统)
   * [智能系统](#智能系统)
+  * [编译原理](#编译原理)
   * [WEB服务器](#web服务器)
   * [版本控制](#版本控制)
   * [编辑器](#编辑器)
@@ -106,6 +107,8 @@
 #### 智能系统
 * [一步步搭建物联网系统](https://github.com/gmszone/designiot)
 
+### 编译原理
+* [《计算机程序的结构和解释》公开课 翻译项目](https://github.com/DeathKing/Learning-SICP)
 
 ### WEB服务器
 
@@ -139,6 +142,7 @@
 * [笨方法学Vimscript 中译本](http://learnvimscriptthehardway.onefloweroneworld.com/)
 * [Vim中文文档](https://github.com/vimcn/vimcdoc)
 * [所需即所获：像 IDE 一样使用 vim](https://github.com/yangyangwithgnu/use_vim_as_ide)
+* [tmux:高效的全键盘开发工具](https://github.com/aqua7regia/tmux-Productive-Mouse-Free-Development_zh)
 
 ### NoSQL
 
@@ -160,7 +164,7 @@
 
 ### MySQL
 
-* [MySQL索引背后的数据结构及算法原理](http://www.cnblogs.com/leoo2sk/archive/2011/07/10/mysql-index.html)
+* [MySQL索引背后的数据结构及算法原理](http://blog.codinglabs.org/articles/theory-of-mysql-index.html)
 * [21分钟MySQL入门教程](http://www.cnblogs.com/mr-wid/archive/2013/05/09/3068229.html)
 
 ### 项目相关
@@ -207,6 +211,7 @@
 * [一站式学习Wireshark](https://community.emc.com/thread/194901)
 * [HTTP 下午茶](http://happypeter.github.io/tealeaf-http/)
 * [HTTP/2.0 中文翻译](http://yuedu.baidu.com/ebook/478d1a62376baf1ffc4fad99?pn=1)
+* [3 Web Designs in 3 Weeks](https://www.gitbook.com/book/juntao/3-web-designs-in-3-weeks/details)
 
 ### 大数据
 
@@ -246,6 +251,7 @@
 
 ### C/C++
 
+* [C 语言编程透视](http://tinylab.gitbooks.io/cbook)
 * [C++ 并发编程指南](https://github.com/forhappy/A-Detailed-Cplusplus-Concurrency-Tutorial) ([@傅海平ICT](http://weibo.com/1702076100))
 * [Linux C编程一站式学习](http://akaedu.github.io/book/) (宋劲杉, 北京亚嵌教育研究中心)
 * [CGDB中文手册](https://github.com/leeyiw/cgdb-manual-in-chinese)
@@ -264,6 +270,7 @@
 * [C++ Primer 5th Answers](https://github.com/Mooophy/Cpp-Primer)
 * [C++ Concurrency In Action](http://chenxiaowei.gitbooks.io/cpp_concurrency_in_action/) (一本“基于C++11新标准的并发和多线程编程深度指南”，完成部分的翻译，希望能有朋友一起翻译)
 * [QT 教程](http://www.kuqin.com/qtdocument/tutorial.html)
+* [C++ Template 进阶指南](https://github.com/wuye9036/CppTemplateTutorial)
 
 ### CSS
 
@@ -271,7 +278,7 @@
 * [通用 CSS 笔记、建议与指导](https://github.com/chadluo/CSS-Guidelines/blob/master/README.md)
 * [CSS参考手册](http://css.doyoe.com/)
 * [Emmet 文档](http://yanxyz.github.io/emmet-docs/)
-* [前端代码规范](http://alloyteam.github.io/code-guide/) (腾讯alloyteam团队)
+* [前端代码规范](http://alloyteam.github.io/CodeGuide/) (腾讯 AlloyTeam 团队)
 * [HTML和CSS编码规范](http://codeguide.bootcss.com/)
 * [Sass Guidelines 中文](http://sass-guidelin.es/zh/)
 * [CSS3 Tutorial 《CSS3 教程》](https://github.com/waylau/css3-tutorial)
@@ -390,6 +397,7 @@
     * [Hello Sea.js](http://island205.github.io/HelloSea.js/)
 * React.js
     * [React.js 中文文档](http://reactjs.cn/)
+    * [React webpack-cookbook](https://github.com/fakefish/react-webpack-cookbook)
 * impress.js
     * [impress.js的中文教程](https://github.com/kokdemo/impress.js-tutorial-in-Chinese)
 * CoffeeScript
@@ -486,11 +494,13 @@
 * [Python快速教程](http://www.cnblogs.com/vamei/archive/2012/09/13/2682778.html)
 * [Python 正则表达式操作指南](http://wiki.ubuntu.org.cn/Python正则表达式操作指南)
 * [python初级教程：入门详解](http://www.crifan.com/files/doc/docbook/python_beginner_tutorial/release/html/python_beginner_tutorial.html)
-* [Python Cookbook 第3版 中文版](http://python3-cookbook.readthedocs.org/zh_CN/latest/)
 * [Twisted 与异步编程入门](http://likebeta.gitbooks.io/twisted-intro-cn/)
 * [TextGrocery 中文 API](http://textgrocery.readthedocs.org/zh/latest/index.html) ( 基于svm算法的一个短文本分类 Python 库 )
 * [Requests: HTTP for Humans](http://requests-docs-cn.readthedocs.org/zh_CN/latest/)
 * [Pillow 中文文档](http://pillow-cn.readthedocs.org/en/latest/#)
+* [PyMOTW 中文版](http://pymotwcn.readthedocs.org/en/latest/index.html)
+* [Python 官方文档中文版](http://data.digitser.net/zh-CN/python_index.html)
+* [Fabric 中文文档](http://fabric-chs.readthedocs.org)
 
 ### R
 
@@ -528,6 +538,7 @@
 * [Bash脚本15分钟进阶教程](http://blog.sae.sina.com.cn/archives/3606)
 * [Linux工具快速教程](https://github.com/me115/linuxtools_rst)
 * [shell十三问](https://github.com/wzb56/13_questions_of_shell)
+* [Shell编程范例](http://tinylab.gitbooks.io/shellbook)
 
 ### Swift
 
