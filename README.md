@@ -10,6 +10,9 @@
 * [Project Euler](https://projecteuler.net/) - 该网站上有许多涉及的编程问题。
 * [CodeAbbey](http://www.codeabbey.com/) - 该网站上有许多初学者经常会遇到的问题，其难度低于上述所有网站。
 
+##VIM学习资源  
+* [VimAwesome](http://vimawesome.com/)  
+
 免费的编程中文书籍索引
 ============================
 
