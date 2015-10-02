@@ -18,7 +18,6 @@
 免费的编程中文书籍索引
 ============================
 
-
 免费的编程中文书籍索引，欢迎投稿。
 
 - 国外程序员在 [stackoverflow](http://stackoverflow.com/a/1713/343194) 推荐的程序员必读书籍，[中文版](http://justjavac.com/other/2012/05/15/qualified-programmer-should-read-what-books.html "一个合格的程序员应该读过哪些书")。
@@ -40,13 +39,16 @@
 * [语言无关类](#语言无关类)
   * [操作系统](#操作系统)
   * [智能系统](#智能系统)
+  * [分布式系统](#分布式系统)
   * [编译原理](#编译原理)
+  * [计算机图形学](#计算机图形学)
   * [WEB服务器](#web服务器)
   * [版本控制](#版本控制)
   * [编辑器](#编辑器)
   * [NoSQL](#nosql)
   * [PostgreSQL](#postgresql)
   * [MySQL](#mysql)
+  * [管理和监控](#管理和监控)
   * [项目相关](#项目相关)
   * [设计模式](#设计模式)
   * [Web](#web)
@@ -79,7 +81,6 @@
   * [Ruby](#ruby)
   * [Rust](#rust)
   * [Scala](#scala)
-  * [Scheme](#scheme)
   * [Shell](#shell)
   * [Swift](#swift)
 
@@ -106,21 +107,28 @@
 * [Linux 命令行(中文版)](http://billie66.github.io/TLCL/book/)
 * [Linux 构建指南](http://works.jinbuguo.com/lfs/lfs62/index.html)
 * [Linux工具快速教程](https://github.com/me115/linuxtools_rst)
+* [Linux Documentation (中文版)](http://tinylab.gitbooks.io/linux-doc)
+* [嵌入式 Linux 知识库 (eLinux.org 中文版)](http://tinylab.gitbooks.io/elinux)
 * [理解Linux进程](https://github.com/tobegit3hub/understand_linux_process)
 * [命令行的艺术](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md)
 
 #### 智能系统
 * [一步步搭建物联网系统](https://github.com/gmszone/designiot)
 
+### 分布式系统
+* [走向分布式](http://dcaoyuan.github.io/papers/pdfs/Scalability.pdf)
+
 ### 编译原理
 * [《计算机程序的结构和解释》公开课 翻译项目](https://github.com/DeathKing/Learning-SICP)
+
+### 计算机图形学
+* [OpenGL 教程](https://github.com/zilongshanren/opengl-tutorials)
 
 ### WEB服务器
 
 * [Nginx开发从入门到精通](http://tengine.taobao.org/book/index.html) (淘宝团队出品)
 * [Nginx教程从入门到精通](http://www.ttlsa.com/nginx/nginx-stu-pdf/)(PDF版本，运维生存时间出品)
 * [Apache 中文手册](http://works.jinbuguo.com/apache/menu22/index.html)
-* [Elasticsearch权威指南](http://looly.gitbooks.io/elasticsearch-the-definitive-guide-cn/)
 
 ### 版本控制
 
@@ -140,6 +148,7 @@
 * [GitHub秘籍](http://snowdream86.gitbooks.io/github-cheat-sheet/content/zh/index.html)
 * [Github帮助文档](https://github.com/waylau/github-help)
 * [git-flow 备忘清单](http://danielkummer.github.io/git-flow-cheatsheet/index.zh_CN.html)
+* [svn 手册](http://svnbook.red-bean.com/nightly/zh/index.html)
 
 ### 编辑器
 
@@ -172,6 +181,15 @@
 * [MySQL索引背后的数据结构及算法原理](http://blog.codinglabs.org/articles/theory-of-mysql-index.html)
 * [21分钟MySQL入门教程](http://www.cnblogs.com/mr-wid/archive/2013/05/09/3068229.html)
 
+### 管理和监控
+
+* [ELKstack 中文指南](http://kibana.logstash.es)
+* [Mastering Elasticsearch(中文版)](http://udn.yyuap.com/doc/mastering-elasticsearch/)
+* [ElasticSearch 权威指南](https://www.gitbook.com/book/fuxiaopang/learnelasticsearch/details)
+* [Elasticsearch 权威指南（中文版）](http://es.xiaoleilu.com)
+* [Logstash 最佳实践](http://udn.yyuap.com/doc/mastering-elasticsearch/)
+* [Puppet 2.7 Cookbook 中文版](http://bbs.konotes.org/workdoc/puppet-27/)
+
 ### 项目相关
 
 * [持续集成（第二版）](http://article.yeeyan.org/view/2251/94882) (译言网)
@@ -181,6 +199,7 @@
 * [Joel谈软件](http://local.joelonsoftware.com/wiki/Chinese_\(Simplified\))
 * [約耳談軟體(Joel on Software)](http://local.joelonsoftware.com/wiki/%E9%A6%96%E9%A0%81)
 * [Gradle 2 用户指南](https://github.com/waylau/Gradle-2-User-Guide)
+* [Gradle 中文使用文档](http://yuedu.baidu.com/ebook/f23af265998fcc22bcd10da2)
 * [编码规范](https://github.com/ecomfe/spec)
 * [开源软件架构](http://www.ituring.com.cn/book/1143)
 * [GNU make 指南](http://docs.huihoo.com/gnu/linux/gmake.html)
@@ -216,6 +235,7 @@
 * [一站式学习Wireshark](https://community.emc.com/thread/194901)
 * [HTTP 下午茶](http://happypeter.github.io/tealeaf-http/)
 * [HTTP/2.0 中文翻译](http://yuedu.baidu.com/ebook/478d1a62376baf1ffc4fad99?pn=1)
+* [http2讲解](https://www.gitbook.com/book/ye11ow/http2-explained/details)
 * [3 Web Designs in 3 Weeks](https://www.gitbook.com/book/juntao/3-web-designs-in-3-weeks/details)
 
 ### 大数据
@@ -245,6 +265,7 @@
 
 * [Android Design(中文版)](http://www.apkbus.com/design/index.html)
 * Google Material Design 正體中文版 ([译本一](http://wcc723.gitbooks.io/google_design_translate/content/style-icons.html) [译本二](https://github.com/1sters/material_design_zh))
+* [Material Design 中文版](http://wiki.jikexueyuan.com/project/material-design/)
 * [Google Android官方培训课程中文版](http://hukai.me/android-training-course-in-chinese/index.html)
 * [Android学习之路](http://stormzhang.github.io/android/2014/07/07/learn-android-from-rookie/)
 * [Android开发技术前线(android-tech-frontier)](https://github.com/bboyfeiyu/android-tech-frontier)
@@ -252,7 +273,7 @@
 
 ### AWK
 
-* [awk程序设计语言](http://awk.readthedocs.org/en/latest/)
+* [awk程序设计语言](https://github.com/wuzhouhui/awk)
 
 ### C/C++
 
@@ -273,7 +294,7 @@
 * [Cmake 实践](http://sewm.pku.edu.cn/src/paradise/reference/CMake%20Practice.pdf) (PDF版)
 * [C++ FAQ LITE(中文版)](http://www.sunistudio.com/cppfaq/)
 * [C++ Primer 5th Answers](https://github.com/Mooophy/Cpp-Primer)
-* [C++ Concurrency In Action](http://chenxiaowei.gitbooks.io/cpp_concurrency_in_action/) (一本“基于C++11新标准的并发和多线程编程深度指南”，完成部分的翻译，希望能有朋友一起翻译)
+* [C++ 并发编程(基于C++11)](http://chenxiaowei.gitbooks.io/cpp_concurrency_in_action/)
 * [QT 教程](http://www.kuqin.com/qtdocument/tutorial.html)
 * [C++ Template 进阶指南](https://github.com/wuye9036/CppTemplateTutorial)
 
@@ -350,6 +371,7 @@
 * [REST 实战](https://github.com/waylau/rest-in-action)
 * [Java 编码规范](https://github.com/waylau/java-code-conventions)
 * [Apache MINA 2 用户指南](https://github.com/waylau/apache-mina-2.x-user-guide)
+* [H2 Database 教程](https://github.com/waylau/h2-database-doc)
 
 ### JavaScript
 
@@ -403,6 +425,7 @@
 * React.js
     * [React.js 中文文档](http://reactjs.cn/)
     * [React webpack-cookbook](https://github.com/fakefish/react-webpack-cookbook)
+    * [React 入门教程](http://fraserxu.me/intro-to-react/)
 * impress.js
     * [impress.js的中文教程](https://github.com/kokdemo/impress.js-tutorial-in-Chinese)
 * CoffeeScript
@@ -421,15 +444,22 @@
 * [一份不太简短的 LATEX 2ε 介绍](http://www.mohu.org/info/lshort-cn.pdf) （PDF版）
 
 ### LISP
-
-* [ANSI Common Lisp 中文翻譯版](http://acl.readthedocs.org/en/latest/)
-* [On Lisp 中文翻译版本](http://www.ituring.com.cn/minibook/862)
+* Common Lisp
+    * [ANSI Common Lisp 中文翻譯版](http://acl.readthedocs.org/en/latest/)
+    * [On Lisp 中文翻译版本](http://www.ituring.com.cn/minibook/862)
+* Scheme
+    * [Yet Another Scheme Tutorial Scheme入门教程](http://deathking.github.io/yast-cn/)
+    * [Scheme语言简明教程](http://songjinghe.github.io/TYS-zh-translation/)
+    * Racket
+        * [Racket book](https://github.com/tyrchen/racket-book)
 
 ### Lua
 
 * [Lua编程入门](https://github.com/andycai/luaprimer)
 * [Lua 5.1 参考手册 中文翻译](http://www.codingnow.com/2000/download/lua_manual.html)
 * [Lua 5.3 参考手册 中文翻译](http://cloudwu.github.io/lua53doc/)
+* [Lua源码欣赏](http://www.codingnow.com/temp/readinglua.pdf)
+* [lua程序设计](http://book.luaer.cn/)
 
 ### Perl
 
@@ -438,6 +468,7 @@
 
 ### PHP
 
+* [PHP 官方手册](http://php.net/manual/zh/)
 * [PHP调试技术手册](http://www.laruence.com/2010/06/21/1608.html)(PDF)
 * [XDebug 2中文手册(译)](http://www.blogkun.com/project.html) (CHM)
 * PHP之道：php-the-right-way ([@wulijun版](http://wulijun.github.io/php-the-right-way/) [PHPHub版](http://laravel-china.github.io/php-the-right-way/))
@@ -519,6 +550,7 @@
 * [Ruby on Rails 指南](http://guides.ruby-china.org/)
 * [Ruby on Rails 實戰聖經](http://ihower.tw/rails4/index.html)
 * [Ruby on Rails Tutorial 原书第 3 版](http://railstutorial-china.org/) (本书网页版免费提供，电子版以 PDF、EPub 和 Mobi 格式提供购买，仅售 9.9 美元)
+* [Rails 实践](http://rails-practice.com/content/index.html)
 * [编写Ruby的C拓展](http://wusuopu.gitbooks.io/write-ruby-extension-with-c/content/)
 * [Ruby 源码解读](https://ruby-china.org/topics/22386)
 * [Ruby中的元编程](http://deathking.github.io/metaprogramming-in-ruby/)
@@ -532,10 +564,6 @@
 * [Scala课堂](http://twitter.github.io/scala_school/zh_cn/index.html) (Twitter的Scala中文教程)
 * [Effective Scala](http://twitter.github.io/effectivescala/index-cn.html)(Twitter的Scala最佳实践的中文翻译)
 * [Scala指南](http://zh.scala-tour.com/)
-
-### Scheme
-* [Yet Another Scheme Tutorial Scheme入门教程](http://deathking.github.io/yast-cn/)
-* [Scheme语言简明教程](http://songjinghe.github.io/TYS-zh-translation/)
 
 ### Shell
 
@@ -578,6 +606,7 @@
 * [前端技能汇总](https://github.com/JacksonTian/fks)
 * [借助开源项目，学习软件开发](https://github.com/zhuangbiaowei/learn-with-open-source)
 * [前端工作面试问题](https://github.com/h5bp/Front-end-Developer-Interview-Questions/tree/master/Translations/Chinese)
+* [leetcode/lintcode题解/算法学习笔记](https://www.gitbook.com/book/yuanbin/algorithm/details)
 
 ### 测试相关
 
