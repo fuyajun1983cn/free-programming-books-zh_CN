@@ -12,6 +12,7 @@
 
 ##编程技巧   
 * [ActiveState](http://code.activestate.com/) - 包含一些代码片断
+* [LeetCode](https://leetcode.com/problemset/algorithms/) - 面试算法编程题练习
 
 ##VIM学习资源  
 * [VimAwesome](http://vimawesome.com/)  
